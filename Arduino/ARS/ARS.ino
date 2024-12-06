@@ -1,4 +1,5 @@
 // Automatic Resistor Sorter 12/6/2024
+// Steven Plock, Justin Adams, Ethan Sena
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
